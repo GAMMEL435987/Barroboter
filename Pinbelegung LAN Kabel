@@ -1,8 +1,10 @@
-Pin 1 - VCC - Orange
-Pin 2 - SCK - Weiß von Orange
-Pin 3 - DT  - Grün
-Pin 4 - GND - Weiß von Grün
-Pin 5 - PWM- Blau
-Pin 6 -     - Weiß von Blau
-Pin 7 -     - Braun
-Pin 8 -     - Weiß von Braun
+Pin B - VCC - Braun
+Pin A - SCK - Weiß von Braun
+Pin Z - DT  - Blau
+Pin Y - GND - Weiß von Blau
+Pin X - PWM - Orange
+Pin W -     - Weiß von Orange
+Pin V -     - Grün
+Pin U -     - Weiß von Grün
+Pin T -     - 
+Pin S -     - 
