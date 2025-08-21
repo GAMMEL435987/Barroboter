@@ -1,7 +1,7 @@
 {
     "secret_key": "Keins123!",
-    "step_pin": 15,
-    "direction_pin": 13,
+    "step_pin": 13,
+    "direction_pin": 15,
     "enable_pin": 11,
     "pos": 0,
     "steps": 200,
